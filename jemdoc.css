@@ -369,7 +369,7 @@ table.imgtable, table.imgtable td {
 	text-align: left;
 }
 
-caption {
+.caption {
   font-size: 0.9em;
   color: #666;
   margin-top: 0.2em;
