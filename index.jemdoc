@@ -3,7 +3,7 @@
 
 ~~~
 #{}{img_left}{photos/bio.png}{alt text}{180}{230}
-[[photos/bio.png, <code>#</code> lifelong leaner <code>#</code> self-motivted <code>#</code> interest driven, class=img_left, width=180px, height=230px]]
+[[photos/bio.png,  class=img_left, width=180px, height=230px]]
 I am a Master's student in Physical Science Division (PSD) of the university of chicago. I received my bachelor's degree in Mathematics and Applied Mathematics from Shanghai Jiao Tong university in 2024.  \n
 
 I am interested in a wide range of topics related to applied mathematics, and I am always exploring new math problems during my research. Currently my interests are around numerical linear algebra, optimal transport, optimization, machine learning theory, sampling.  So far, my goal has been to integrate techniques and ideas from various branches of mathematics to tackle challenges in different fields. In the long term, I hope to better bridge the gap between mathematical theory and its applications. \n
