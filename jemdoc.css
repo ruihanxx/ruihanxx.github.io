@@ -368,3 +368,9 @@ table.imgtable, table.imgtable td {
 	border: none;
 	text-align: left;
 }
+
+caption {
+  font-size: 0.9em;
+  color: #666;
+  margin-top: 0.2em;
+}
