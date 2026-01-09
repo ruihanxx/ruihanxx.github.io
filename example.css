@@ -56,3 +56,19 @@ td.leftcell div.infoblock {
 	margin-top: 0;
 	margin-bottom: 0;
 }
+
+.img_left{
+	float: left;
+	margin: 6px 14px 6px 0;
+  }
+  
+  .img_right{
+	float: right;
+	margin: 6px 0 6px 14px;
+  }
+  
+  /* 可选：限制最大宽度，避免挤爆 */
+  .img_left, .img_right{
+	max-width: 45%;
+	height: auto;
+  }
