@@ -374,3 +374,6 @@ table.imgtable, table.imgtable td {
   color: #666;
   margin-top: 0.2em;
 }
+
+table.imgtable { float: left; margin: 0 15px 10px 0; }
+table.imgtable td { vertical-align: top; }

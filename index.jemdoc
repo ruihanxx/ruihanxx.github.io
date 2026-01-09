@@ -10,22 +10,23 @@ I am a Master's student in Physical Science Division (PSD) of the university of 
 ~~~
 
 ~~~
+{}{img_left}{photos/bio.png}{alt text}{1}{1}
 
 I am interested in a wide range of topics related to applied mathematics, and I am always exploring new math problems during my research. Currently my interests are around: \n
-* **Sampling**
-    - Markov chain Monte Carlo (MCMC)
-    - Glauber Dynamics (optimal mixing time and its implications for modern machine learning)
-    - Stochastic Localization (the theory framework for analyzing MCMC, and its implication for sampling and machine learning)
-    - Optimal transport (the theory (Diffusions, Gradient Flow), and its applcation in machine learning)
+- *Sampling* \n
+    -- Markov chain Monte Carlo (MCMC)
+    -- Glauber Dynamics (optimal mixing time and its implications for modern machine learning)
+    -- Stochastic Localization (the theory framework for analyzing MCMC, and its implication for sampling and machine learning)
+    -- Optimal transport (the theory (Diffusions, Gradient Flow), and its applcation in machine learning)
 
-* **Computation**
-    - Large-scale Matrix (tensor) Problem (especially randomized algorithm for the least-squares, eigenvalue problems)
-    - Random Matrix theory (theoretical guarantee for structured random matrix)
+- *Computation*  \n
+    -- Large-scale Matrix (tensor) Problem (especially randomized algorithm for the least-squares, eigenvalue problems)
+    -- Random Matrix theory (theoretical guarantee for structured random matrix)
 
-* **Machine Learning**
-    - Training Dynamics and Optimizer Design 
-    - Probability Model
-    - Online Learning
+- *Machine Learning*  \n
+    -- Training Dynamics and Optimizer Design 
+    -- Probability Model
+    -- Online Learning
 
 My goals have been about two part \n
  - Develop theoretical insights in computational science that can more practically inform algorithmic design and implementation. 
@@ -34,8 +35,10 @@ My goals have been about two part \n
 e-mail: ruihanx@uchicago.edu \n
 
 
-
-**More about Ruihan**:
+\n 
+\n
+\n
+*More about Ruihan*:
 -  lifelong leaner, interest driven
 -  doing sports is part of my life, bouldering recently, basketball before (I still can dunk)
 -  amateur pianist, music making
