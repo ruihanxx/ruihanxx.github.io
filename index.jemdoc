@@ -2,7 +2,8 @@
 == Ruihan Xu
 
 ~~~
-{}{img_left}{photos/bio.png}{alt text}{312}{230}
+```html
+<img class="img_left" src="photos/bio.png" alt="alt text" width="312" height="230" />
 
 I am a Master's student in Physical Science Division (PSD) of the university of chicago. I received my bachelor's degree in Mathematics and Applied Mathematics from Shanghai Jiao Tong university in 2024.  \n
 
