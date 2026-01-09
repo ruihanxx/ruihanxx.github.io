@@ -2,7 +2,7 @@
 == Ruihan Xu
 
 ~~~
-```html
+
 <img class="img_left" src="photos/bio.png" alt="alt text" width="312" height="230" />
 
 I am a Master's student in Physical Science Division (PSD) of the university of chicago. I received my bachelor's degree in Mathematics and Applied Mathematics from Shanghai Jiao Tong university in 2024.  \n
@@ -28,6 +28,8 @@ My goals have been about two part \n
  - Explore new paradigms for the development of AI, enlightened by applied math/physics. 
 
 e-mail: ruihanx@uchicago.edu \n
+
+<div class="clear"></div>
 
 **More about Ruihan**:
 -  lifelong leaner, interest driven
