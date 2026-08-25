@@ -142,6 +142,7 @@ def standardconf():
   
   [defaultcss]
   <link rel="stylesheet" href="jemdoc.css" type="text/css" />
+  <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
   
   [windowtitle]
   # used in header for window title.
