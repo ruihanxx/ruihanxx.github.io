@@ -159,6 +159,7 @@ pre {
 div#footer {
 	font-size: small;
 	border-top: 1px solid #c0c0c0;
+	clear: both;
 	padding-top: 0.1em;
 	margin-top: 4.0em;
 	color: #c0c0c0;
