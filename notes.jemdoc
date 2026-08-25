@@ -2,6 +2,16 @@
 \n
 = Notes
 
+== AI observation
+
+The results presented here were produced primarily by AI and verified by me.
+
+* **[files/SKmodelATline.pdf Fast Mixing of Glauber Dynamics in the SK Model up to the AT Scale]**  *
+  *Abstract.* This note improves the $(\beta,h)$ fast-mixing boundary for Glauber dynamics in the SK model established by [https://arxiv.org/pdf/2607.06813 Bandeira A S, Alaoui A E, and Rödder A], from $h\sim \beta^2\sqrt{\log \beta}$ to the AT-scale $h\sim \beta\sqrt{\log \beta}$.
+
+
+== Study notes
+
 === [files/stochastic_localization.pdf Samping via stochastic localization]
 
 === [files/markov_diffusion.pdf Markov Diffusion]
@@ -9,5 +19,4 @@
 === Random Matrix Theory
 
 === Applied Algebra
-
 
