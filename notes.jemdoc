@@ -4,11 +4,16 @@
 
 == AI observation
 
-The results presented here were produced primarily by AI and verified by me.
+The results presented here were produced primarily by AI and verified by human.
 
 * **[files/SKmodelATline.pdf Fast Mixing of Glauber Dynamics in the SK Model up to the AT Scale]**  * \n
   
-*Abstract.* This note improves the $(\beta,h)$ fast-mixing boundary for Glauber dynamics in the SK model established by [https://arxiv.org/pdf/2607.06813 Bandeira A S, Alaoui A E, and Rödder A], from $h\sim \beta^2\sqrt{\log \beta}$ to the AT-scale $h\sim \beta\sqrt{\log \beta}$.
+*Abstract.* This note improves the $(\beta,h)$ fast-mixing boundary for Glauber dynamics in the SK model established by [https://arxiv.org/pdf/2607.06813 Bandeira A S, Alaoui A E, and Rödder A], from $h\sim \beta^2\sqrt{\log \beta}$ to the AT-scale $h\sim \beta\sqrt{\log \beta}$. \note
+
+* **[files/SKconjecture.pdf A Counterexample to Uniform-in-Field Rapid Mixing Below $\beta=1$ in the Sherrington–Kirkpatrick Model]**  * \n
+
+*Abstract.* This note gives a counterexample to the conjecture Open Problem 15 in [https://arxiv.org/pdf/2504.20539 Randomstrasse101: Open Problems of 2024] that the Glauber dynamics mix fast on the SK model with arbitrary external field, w.h.p choice of GOE, for all $\beta<1$.
+
 
 
 == Study notes
